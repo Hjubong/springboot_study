@@ -1,0 +1,9 @@
+Spring Boot + JSP
+- 스프링 부트는 기본적으로 JSP를 지원하지 않는다.
+
+Spring Boot + 템플릿 엔진
+- Thymeleaf > 기본
+- Mustache
+- Freemarker
+- Velocity
+- 등..(JSP) 
